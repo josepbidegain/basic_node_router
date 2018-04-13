@@ -1,0 +1,16 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "es una prueba de creacion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "jpb",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.0.14"
+  },
+  "devDependencies": {}
+}
